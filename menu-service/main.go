@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Bayu200720/DTS-microservice/auth/handler"
+	"github.com/Bayu200720/DTS-microservice.git/auth/handler"
 	"github.com/gorilla/mux"
 )
 
